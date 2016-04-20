@@ -1,0 +1,1 @@
+An open source, multilingual, multi-market Point of Sale system for use in many types of retail and service environments. Compatible with OPOS standards and EMS/PMS systems.
